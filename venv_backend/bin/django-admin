@@ -1,4 +1,4 @@
-#!/home/felipe/PUC-Rio/24-2/INF1407/T2/frontend/venv_backend/bin/python3
+#!/home/felipe/Desktop/INF1407_T2/venv_backend/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
